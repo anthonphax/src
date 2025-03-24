@@ -34,6 +34,7 @@ Casos de Uso
 
 4. Disparar e Rastrear Erro de Produção:
 > Sistema dispara notificações de erros em peças (atrasos); é possível rastrear Peça, Pedido e Lote.  
+
     O sistema rastreia erro em peça específica e mostra máquina onde peça se encontra.
     tempoInicio é atualizado a partir da mudança de Máquina de Peça.
     Quando o tempo de início de uma peça ultrapassa o tempo máximo permitido, um alarme é disparado, notificando os operadores sobre o atraso.
@@ -41,6 +42,7 @@ Casos de Uso
 
 5. Alarme de Atraso:
 > Visualização de alarmes de Atrasos em Peças  
+
 	O alarme contém informações detalhadas sobre a peça, o lote e o pedido associado, permitindo que os operadores identifiquem a origem do atraso.
     O alarme é registrado em um histórico para análise posterior. A notificação inclui detalhes sobre a peça, o lote e o pedido associados.
     O sistema exibe informações como o tempo de início da peça, o tempo máximo configurado, o tempo decorrido e o pedido relacionado. 
@@ -48,6 +50,7 @@ Casos de Uso
 
 6. Gerar Relatórios de Atrasos:
 > Visualização e exportação de Relatórios de Atrasos em Peças e Lotes.  
+
     Sistema gera relatórios detalhados sobre os atrasos de produção. 
     Relatórios incluem informações como o número de peças atrasadas, os lotes afetados e os pedidos impactados.
     Sistema monitora o progresso de cada lote de produção.
@@ -55,7 +58,8 @@ Casos de Uso
     
 8. Integrar com Sistemas Externos
 > Integração com o sistema e banco de dados de empresa interessada.
+
     O sistema pode ser integrado com ERPs ou MES (Manufacturing Execution Systems) dos stakeholders.
     
 
-    ![Casos de Uso](diagrams/casosDeUso.png)
+    ![Casos de Uso](./diagrams/casosDeUso.png)
