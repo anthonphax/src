@@ -65,4 +65,4 @@
 # Diagrama de Casos de Uso
 
 
-![Casos de Uso](./diagrams/casosDeUso.png)
+![Casos de Uso](./diagrams/Usecases.png)
