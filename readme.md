@@ -1,4 +1,4 @@
-Casos de Uso
+# Casos de Uso
 
 
 1. Informações de Pedidos: 
@@ -62,4 +62,7 @@ Casos de Uso
     O sistema pode ser integrado com ERPs ou MES (Manufacturing Execution Systems) dos stakeholders.
     
 
-    ![Casos de Uso](./diagrams/casosDeUso.png)
+# Diagrama de Casos de Uso
+
+
+![Casos de Uso](./diagrams/casosDeUso.png)
